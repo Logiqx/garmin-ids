@@ -9,3 +9,6 @@ curl $API | jq . >$OUT
 
 # Add missing registered trademark symbols
 sed -i 's/ForeAthlete /ForeAthlete® /;s/Montana /Montana® /' $OUT
+
+# Add missing spaces after the trademark symbols
+sed -i -E 's/([®™])([^ ")])/\1 \2/g' $OUT
