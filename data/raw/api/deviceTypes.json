@@ -443,7 +443,7 @@
   {
     "id": "74",
     "partNumber": "006-B2833-00",
-    "name": "ForeAthlete 935",
+    "name": "ForeAthlete® 935",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01746-00/v/cf-sm.jpg",
     "urlName": "forerunner935-apac"
@@ -523,7 +523,7 @@
   {
     "id": "89",
     "partNumber": "006-B3003-00",
-    "name": "ForeAthlete 645",
+    "name": "ForeAthlete® 645",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01863-10/v/cf-sm-3d860c6d-aec3-4fcd-8544-3ec55190a637.jpg",
     "urlName": "forerunner645-apac"
@@ -531,7 +531,7 @@
   {
     "id": "90",
     "partNumber": "006-B3004-00",
-    "name": "ForeAthlete 645 Music",
+    "name": "ForeAthlete® 645 Music",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01863-30/v/cf-sm-cf7f4202-dce2-4c43-ab20-0d0ae12b35f3.jpg",
     "urlName": "forerunner645m-apac"
@@ -1291,10 +1291,10 @@
   {
     "id": "178",
     "partNumber": "006-B3459-00",
-    "name": "Montana 700",
+    "name": "Montana® 700",
     "additionalNames": [
-      "Montana 700i",
-      "Montana 750i"
+      "Montana® 700i",
+      "Montana® 750i"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02133-00/g/cf-sm-eed10c23-6410-4fb4-bbe7-d235d8c1de78.jpg",
     "urlName": "montana7xx"
@@ -1887,7 +1887,7 @@
   {
     "id": "215",
     "partNumber": "006-B3914-00",
-    "name": "ForeAthlete 245",
+    "name": "ForeAthlete® 245",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02120-00/v/cf-sm-13aa6bd1-4382-4520-ba05-be6a77decdbf.jpg",
     "urlName": "forerunner245-asia"
@@ -1895,7 +1895,7 @@
   {
     "id": "216",
     "partNumber": "006-B3913-00",
-    "name": "ForeAthlete 245 Music",
+    "name": "ForeAthlete® 245 Music",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02120-20/v/cf-sm-3f7eab23-b754-4e70-aba1-518f230a57f7.jpg",
     "urlName": "forerunner245m-asia"
@@ -2087,7 +2087,7 @@
   {
     "id": "232",
     "partNumber": "006-B4033-00",
-    "name": "ForeAthlete 55",
+    "name": "ForeAthlete® 55",
     "additionalNames": [
       "Forerunner® 158 "
     ],
@@ -2246,7 +2246,7 @@
   {
     "id": "211",
     "partNumber": "006-B3794-00",
-    "name": "ForeAthlete 745",
+    "name": "ForeAthlete® 745",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02445-00/v/pd-01-sm-08be35f2-d0c8-4f90-8bba-79330826183f.jpg",
     "urlName": "forerunner745-asia"
@@ -2599,9 +2599,9 @@
   {
     "id": "147",
     "partNumber": "006-B3469-00",
-    "name": "ForeAthlete 45",
+    "name": "ForeAthlete® 45",
     "additionalNames": [
-      "ForeAthlete 45S"
+      "ForeAthlete® 45S"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02156-05/v/cf-sm-ddce0f3c-16b2-4cfc-bd14-7e541f5412bc.jpg",
     "urlName": "foreathlete45"

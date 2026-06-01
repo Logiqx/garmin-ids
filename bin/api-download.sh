@@ -6,3 +6,5 @@ DIR=data/raw/api
 OUT=$DIR/deviceTypes.json
 
 curl $API | jq . >$OUT
+
+sed -i 's/ForeAthlete /ForeAthlete® /;s/Montana /Montana® /' $OUT
