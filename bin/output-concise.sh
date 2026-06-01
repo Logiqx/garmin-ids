@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 
 RAW=data/raw/api/*.json
-REF=data/raw/ref/consise.psv
+REF=data/raw/ref/concise.psv
 
 TMP=data/out/concise/legal.tmp
 OUT=data/out/concise/legal.psv
@@ -15,6 +15,9 @@ PARTS=$(cut -d '|' -f1 $REF | paste -sd '|' -)
 # Replace some product names from the API with concise values
 grep -E -v "$PARTS" $TMP >$OUT
 cat $REF >>$OUT
+
+# Add missing spaces in sizes - e.g. 47 mm / 51 mm
+sed -i -E 's/([45][0-9])(mm)/\1 \2/g' $OUT
 
 # Ensure the output is sorted and remove the temporary file
 sort -o $OUT $OUT

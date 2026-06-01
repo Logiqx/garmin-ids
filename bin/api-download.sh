@@ -7,11 +7,41 @@ OUT=$DIR/deviceTypes.json
 
 curl $API | jq . >$OUT
 
+# Standardise hyphens - use minus sign
+sed -i 's/–/-/g' $OUT
+
 # Add missing registered trademark symbols
 sed -i 's/ForeAthlete /ForeAthlete® /;s/Montana /Montana® /' $OUT
 
 # Add missing spaces after the trademark symbols
 sed -i -E 's/([®™])([^ ")])/\1 \2/g' $OUT
 
+# Add missing spaces before hyphens
+sed -i -E 's/([^ ])(- )/\1 \2/' $OUT
+
 # Add missing spaces after hyphens
-sed -i -E 's/( -)([^ ])/\1 \2/g' $OUT
+sed -i -E 's/( -)([^ ])/\1 \2/' $OUT
+
+# Standardise #1 - e.g. fēnix® 8 AMOLED (43mm) to fēnix® 8 - 43mm, AMOLED
+sed -i -E 's/(AMOLED|Solar|Dual Power) \((.*)\)/- \2, \1/' $OUT
+
+# Standardise #2 - e.g. epix™ Pro (42mm) to epix™ Pro - 42mm
+sed -i -E 's/\(([45][0-9])(mm)\)/- \1 \2/' $OUT
+
+# Add missing spaces either side of slashes - e.g. 47mm / 51mm
+sed -i -E 's/(mm)\/([45][0-9]mm)/\1 \/ \2/' $OUT
+
+# Add missing commas - e.g. fēnix® 8 Pro – 51 mm, MicroLED
+sed -i -E 's/(mm) ([A-Z][A-Za-z]*LED)/\1, \2/' $OUT
+
+# Add missing brackets - e.g. fēnix® 7X Pro (No Wi-Fi®)
+sed -i -E 's/ (No Wi-Fi)/ (\1®)/' $OUT
+
+# One-off fix for fēnix® 7 - Solar Edition
+sed -i -E 's/(fēnix® 7) (Solar)/\1 - \2 Edition/' $OUT
+
+# One-off fix for tactix® Delta Solar Ballistics
+sed -i 's/Solar:Ballisitcs Edition/Solar Ballistics/' $OUT
+
+# Ensure Descent Mk2 and Mk3 use camel case
+sed -i 's/™ MK/™ Mk/' $OUT
