@@ -12,3 +12,6 @@ sed -i 's/ForeAthlete /ForeAthlete® /;s/Montana /Montana® /' $OUT
 
 # Add missing spaces after the trademark symbols
 sed -i -E 's/([®™])([^ ")])/\1 \2/g' $OUT
+
+# Add missing spaces after hyphens
+sed -i -E 's/( -)([^ ])/\1 \2/g' $OUT
