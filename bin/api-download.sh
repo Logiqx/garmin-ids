@@ -7,4 +7,5 @@ OUT=$DIR/deviceTypes.json
 
 curl $API | jq . >$OUT
 
+# Add missing registered trademark symbols
 sed -i 's/ForeAthlete /ForeAthlete® /;s/Montana /Montana® /' $OUT
