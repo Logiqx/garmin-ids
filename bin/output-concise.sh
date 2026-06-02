@@ -16,9 +16,6 @@ PARTS=$(cut -d '|' -f1 $REF | paste -sd '|' -)
 grep -E -v "$PARTS" $TMP >$OUT
 cat $REF >>$OUT
 
-# Add missing spaces in sizes - e.g. 47 mm / 51 mm
-sed -i -E 's/([45][0-9])(mm)/\1 \2/g' $OUT
-
 # Ensure the output is sorted and remove the temporary file
 sort -o $OUT $OUT
 rm $TMP

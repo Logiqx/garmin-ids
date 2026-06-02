@@ -22,6 +22,9 @@ sed -i -E 's/([^ ])(- )/\1 \2/' $OUT
 # Add missing spaces after hyphens
 sed -i -E 's/( -)([^ ])/\1 \2/' $OUT
 
+# Ensure Descent Mk2 and Mk3 use camel case
+sed -i 's/™ MK/™ Mk/' $OUT
+
 # Standardise #1 - e.g. fēnix® 8 AMOLED (43mm) to fēnix® 8 - 43mm, AMOLED
 sed -i -E 's/(AMOLED|Solar|Dual Power) \((.*)\)/- \2, \1/' $OUT
 
@@ -30,6 +33,9 @@ sed -i -E 's/\(([45][0-9])(mm)\)/- \1 \2/' $OUT
 
 # Add missing spaces either side of slashes - e.g. 47mm / 51mm
 sed -i -E 's/(mm)\/([45][0-9]mm)/\1 \/ \2/' $OUT
+
+# Add missing spaces in sizes - e.g. 47 mm / 51 mm
+sed -i -E 's/( [45][0-9])(mm)/\1 \2/g' $OUT
 
 # Add missing commas - e.g. fēnix® 8 Pro – 51 mm, MicroLED
 sed -i -E 's/(mm) ([A-Z][A-Za-z]*LED)/\1, \2/' $OUT
@@ -42,6 +48,3 @@ sed -i -E 's/(fēnix® 7) (Solar)/\1 - \2 Edition/' $OUT
 
 # One-off fix for tactix® Delta Solar Ballistics
 sed -i 's/Solar:Ballisitcs Edition/Solar Ballistics/' $OUT
-
-# Ensure Descent Mk2 and Mk3 use camel case
-sed -i 's/™ MK/™ Mk/' $OUT

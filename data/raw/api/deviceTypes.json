@@ -278,7 +278,7 @@
   {
     "id": "292",
     "partNumber": "006-B4223-00",
-    "name": "Descent™ Mk3i - 51mm",
+    "name": "Descent™ Mk3i - 51 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
     "urlName": "descentmk3"
@@ -286,7 +286,7 @@
   {
     "id": "293",
     "partNumber": "006-B4225-00",
-    "name": "Descent™ Mk3i - 51mm",
+    "name": "Descent™ Mk3i - 51 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
     "urlName": "descentmk3-asia"
@@ -294,9 +294,9 @@
   {
     "id": "295",
     "partNumber": "006-B4222-00",
-    "name": "Descent™ Mk3 - 43mm",
+    "name": "Descent™ Mk3 - 43 mm",
     "additionalNames": [
-      "Descent™ Mk3i - 43mm"
+      "Descent™ Mk3i - 43 mm"
     ],
     "imageUrl": "https://res.garmin.com/fr_CA/products/010-02753-03/v/pd-04-sm.jpg",
     "urlName": "descentmk3-43"
@@ -2063,7 +2063,7 @@
   {
     "id": "318",
     "partNumber": "006-B4574-00",
-    "name": "Forerunner® 570 - 42mm",
+    "name": "Forerunner® 570 - 42 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/fr_CH/products/010-02970-01/v/pd-03-sm.jpg",
     "urlName": "FR570-42mm"
@@ -2071,7 +2071,7 @@
   {
     "id": "319",
     "partNumber": "006-B4570-00",
-    "name": "Forerunner® 570 - 47mm",
+    "name": "Forerunner® 570 - 47 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/cs_CZ/products/010-02971-00/v/rf-sm.jpg",
     "urlName": "FR570-47mm"
@@ -2196,9 +2196,9 @@
   {
     "id": "310",
     "partNumber": "006-B4532-00",
-    "name": "fēnix® 8 - 47mm, Solar",
+    "name": "fēnix® 8 - 47 mm, Solar",
     "additionalNames": [
-      "fēnix® 8 - 47mm, Dual Power"
+      "fēnix® 8 - 47 mm, Dual Power"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02906-10/v/rf-sm.jpg",
     "urlName": "fenix8s-47mm"
@@ -2206,9 +2206,9 @@
   {
     "id": "311",
     "partNumber": "006-B4533-00",
-    "name": "fēnix® 8 - 51mm, Solar",
+    "name": "fēnix® 8 - 51 mm, Solar",
     "additionalNames": [
-      "fēnix® 8 - 51mm, Dual Power"
+      "fēnix® 8 - 51 mm, Dual Power"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02907-10/v/rf-sm.jpg",
     "urlName": "fenix8s-51mm"
@@ -2221,8 +2221,8 @@
       "fēnix® 8 Pro - 47 mm, AMOLED",
       "fēnix® 8 Pro - 51 mm, AMOLED",
       "fēnix® 8 Pro - 51 mm, MicroLED",
-      "quatix® 8 Pro - 47mm, AMOLED",
-      "quatix® 8 Pro - 51mm, AMOLED"
+      "quatix® 8 Pro - 47 mm, AMOLED",
+      "quatix® 8 Pro - 51 mm, AMOLED"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-03380-00/v/rf-sm.jpg",
     "urlName": "fenix8Pro-47-51mm"
@@ -2430,7 +2430,7 @@
   {
     "id": "306",
     "partNumber": "006-B4534-00",
-    "name": "fēnix® 8 - 43mm, AMOLED",
+    "name": "fēnix® 8 - 43 mm, AMOLED",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02903-00/v/pd-06-sm.jpg",
     "urlName": "fenix8-43mm"
@@ -2438,9 +2438,9 @@
   {
     "id": "308",
     "partNumber": "006-B4536-00",
-    "name": "fēnix® 8 - 47mm / 51mm, AMOLED",
+    "name": "fēnix® 8 - 47 mm / 51 mm, AMOLED",
     "additionalNames": [
-      "quatix® 8 - 47mm / 51mm, AMOLED"
+      "quatix® 8 - 47 mm / 51 mm, AMOLED"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02905-00/v/pd-06-sm.jpg",
     "urlName": "fenix8-51mm"
