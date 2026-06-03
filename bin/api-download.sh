@@ -37,6 +37,9 @@ sed -i -E 's/(mm)\/([45][0-9]mm)/\1 \/ \2/' $OUT
 # Add missing spaces in sizes - e.g. 47 mm / 51 mm
 sed -i -E 's/( [45][0-9])(mm)/\1 \2/g' $OUT
 
+# Shorten multiple sizes - e.g. 47 mm / 51 mm to 47 / 51 mm
+sed -i -E 's/([45][0-9]) mm \/ ([45][0-9] mm)/\1 \/ \2/' $OUT
+
 # Add missing commas - e.g. fēnix® 8 Pro – 51 mm, MicroLED
 sed -i -E 's/(mm) ([A-Z][A-Za-z]*LED)/\1, \2/' $OUT
 
