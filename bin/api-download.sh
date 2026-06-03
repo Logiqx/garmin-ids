@@ -52,6 +52,9 @@ sed -i -E 's/(fēnix® 7) (Solar)/\1 - \2 Edition/' $OUT
 # One-off fix for tactix® Delta Solar Ballistics
 sed -i 's/Solar:Ballisitcs Edition/Solar Ballistics/' $OUT
 
+# Shorten ONE PIECE names
+sed -i -E 's/(ONE PIECE).*"/\1"/' $OUT
+
 # Shorten Dual Power to Solar
 sed -i 's/Dual Power/Solar/' $OUT
 
