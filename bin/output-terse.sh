@@ -10,9 +10,6 @@ jq -r '.[] | .partNumber + "|" + .name' $RAW >$OUT
 # Shorten multiple sizes - e.g. 47 mm / 51 mm to 47 / 51 mm
 sed -i -E 's/([45][0-9]) mm \/ ([45][0-9] mm)/\1 \/ \2/' $OUT
 
-# Remove the words "Edition" and "Collection"
-sed -i -E 's/ Edition//;s/ Collection//' $OUT
-
 # Remove the suffix "Carbon"
 sed -i 's/ - Carbon//' $OUT
 

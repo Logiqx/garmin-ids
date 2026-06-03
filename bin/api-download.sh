@@ -48,3 +48,9 @@ sed -i -E 's/(fēnix® 7) (Solar)/\1 - \2 Edition/' $OUT
 
 # One-off fix for tactix® Delta Solar Ballistics
 sed -i 's/Solar:Ballisitcs Edition/Solar Ballistics/' $OUT
+
+# Shorten Dual Power to Solar
+sed -i 's/Dual Power/Solar/' $OUT
+
+# Remove unnnecessary suffixes
+sed -i 's/ Edition//;s/ Collection//' $OUT
