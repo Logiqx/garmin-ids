@@ -1455,7 +1455,7 @@
     "name": "MARQ® (Gen 2)",
     "additionalNames": [
       "MARQ® Carbon",
-      "MARQ® Adventurer (Gen 2) - Damascus Steel"
+      "MARQ® Adventurer (Gen 2)"
     ],
     "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1664569372/Product_Images/en/products/010-02648-30/g/pd-04-sm.jpg",
     "urlName": "marqII"
@@ -1481,7 +1481,7 @@
   {
     "id": "297",
     "partNumber": "006-B4472-00",
-    "name": "MARQ® Commander (Gen 2) - Carbon",
+    "name": "MARQ® Commander (Gen 2)",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02722-00/v/pd-03-sm.jpg",
     "urlName": "marqII-commander-carbon"

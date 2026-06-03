@@ -59,4 +59,4 @@ sed -i -E 's/(ONE PIECE).*"/\1"/' $OUT
 sed -i 's/Dual Power/Solar/' $OUT
 
 # Remove unnnecessary suffixes
-sed -i 's/ Edition//;s/ Collection//' $OUT
+sed -i 's/ Edition//;s/ Collection//;s/ - Damascus Steel//;s/ - Carbon//' $OUT
