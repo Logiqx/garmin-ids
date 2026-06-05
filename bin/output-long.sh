@@ -15,6 +15,11 @@ sed -E -i 's/^(006-B4759-00.Instinct® 3 – 50 mm)$/\1, Solar, Tactical/' $OUT
 sed -E -i 's/^(006-B4775-00.tactix® 8 – 51 mm)$/\1, AMOLED/' $OUT
 sed -E -i 's/^(006-B4776-00.tactix® 8 – 51 mm)$/\1, Solar, Elite/' $OUT
 
-# Ensure the output is sorted and remove the temporary file
-sort -o $OUT $OUT
+# Ensure the results are sorted
+sort -o $TMP $OUT
+
+# Append the variant column
+join -t '|' -a 1 -o auto $TMP data/raw/ref/variants.psv >$OUT
+
+# Remove the temporary file
 rm $TMP

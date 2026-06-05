@@ -16,6 +16,11 @@ PARTS=$(cut -d '|' -f1 $REF | paste -sd '|' -)
 grep -E -v "$PARTS" $TMP >$OUT
 cat $REF >>$OUT
 
-# Ensure the output is sorted and remove the temporary file
-sort -o $OUT $OUT
+# Ensure the results are sorted
+sort -o $TMP $OUT
+
+# Append the variant column
+join -t '|' -a 1 -o auto $TMP data/raw/ref/variants.psv >$OUT
+
+# Remove the temporary file
 rm $TMP

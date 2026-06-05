@@ -2,13 +2,17 @@
 
 API=data/tmp/api/deviceTypes.json
 
+TMP=data/out/terse/legal.tmp
 OUT=data/out/terse/legal.psv
 
 # Extract part numbers and product names from JSON
 jq -r '.[] | .partNumber + "|" + .name' $API >$OUT
 
-# Remove the phrase "(No Wi-Fi®)"
-sed -i 's/ (No Wi-Fi®)//' $OUT
+# Ensure the results are sorted
+sort -o $TMP $OUT
 
-# Ensure the output is sorted
-sort -o $OUT $OUT
+# Append the variant column
+join -t '|' -a 1 -o auto $TMP data/raw/ref/variants.psv >$OUT
+
+# Remove the temporary file
+rm $TMP
