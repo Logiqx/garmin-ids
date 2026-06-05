@@ -4,6 +4,7 @@ DIR=bin
 
 # Download latest JSON from the API
 $DIR/api-download.sh
+$DIR/api-patch.sh
 
 # Create outputs
 $DIR/output-concise.sh

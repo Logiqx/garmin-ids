@@ -36,10 +36,10 @@
     "partNumber": "006-B3888-00",
     "name": "Instinct® 2",
     "additionalNames": [
-      "Instinct® 2 - Camo Edition",
-      "Instinct® 2 Solar - Tactical Edition",
-      "Instinct® 2 Solar - Surf Edition",
-      "Instinct® 2 - dēzl™ Edition"
+      "Instinct® 2 - Camo",
+      "Instinct® 2 Solar - Tactical",
+      "Instinct® 2 Solar - Surf",
+      "Instinct® 2 - dēzl™"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02627-16/v/sc-05-sm-8e5d5a4c-63fa-4680-8dc0-e0f329a5debd.jpg",
     "urlName": "instinct2"
@@ -57,13 +57,13 @@
     "partNumber": "006-B4071-00",
     "name": "Instinct® 2",
     "additionalNames": [
-      "Instinct® 2 - Camo Edition",
-      "Instinct® 2 Solar - Tactical Edition",
-      "Instinct® 2 Solar - Surf Edition",
-      "Instinct® 2 - dēzl™ Edition",
-      "Instinct® 2 Dual Power",
-      "Instinct® 2 Dual Power - Tactical Edition",
-      "Instinct® 2 Dual Power ONE PIECE LUFFY "
+      "Instinct® 2 - Camo",
+      "Instinct® 2 Solar - Tactical",
+      "Instinct® 2 Solar - Surf",
+      "Instinct® 2 - dēzl™",
+      "Instinct® 2 Solar",
+      "Instinct® 2 Solar - Tactical",
+      "Instinct® 2 Solar ONE PIECE"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02627-16/v/sc-05-sm-8e5d5a4c-63fa-4680-8dc0-e0f329a5debd.jpg",
     "urlName": "instinct2-asia"
@@ -73,7 +73,7 @@
     "partNumber": "006-B4155-00",
     "name": "Instinct® Crossover",
     "additionalNames": [
-      "Instinct® Crossover Dual Power"
+      "Instinct® Crossover Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02730-11/v/rf-sm.jpg",
     "urlName": "instinct-crossover"
@@ -81,7 +81,7 @@
   {
     "id": "312",
     "partNumber": "006-B4583-00",
-    "name": "Instinct® E – 40 mm",
+    "name": "Instinct® E - 40 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02932-00/v/pd-04-sm.jpg",
     "urlName": "Instincte-40mm"
@@ -89,7 +89,7 @@
   {
     "id": "313",
     "partNumber": "006-B4584-00",
-    "name": "Instinct® E – 45 mm",
+    "name": "Instinct® E - 45 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02933-00/v/rf-sm.jpg",
     "urlName": "Instincte-45mm"
@@ -97,7 +97,7 @@
   {
     "id": "315",
     "partNumber": "006-B4586-00",
-    "name": "Instinct® 3 – 45 mm, AMOLED",
+    "name": "Instinct® 3 - 45 mm, AMOLED",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en_GB/products/010-02936-00/v/pd-04-sm.jpg",
     "urlName": "Instinct3-45mm-a"
@@ -105,7 +105,7 @@
   {
     "id": "314",
     "partNumber": "006-B4585-00",
-    "name": "Instinct® 3 – 45 mm, Solar",
+    "name": "Instinct® 3 - 45 mm, Solar",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en_GB/products/010-02934-00/v/pd-10-sm.jpg",
     "urlName": "Instinct3-45mm-s"
@@ -113,9 +113,9 @@
   {
     "id": "333",
     "partNumber": "006-B4759-00",
-    "name": "Instinct® 3 – 50 mm, Solar",
+    "name": "Instinct® 3 - 50 mm, Solar",
     "additionalNames": [
-      "Instinct® 3 – 50 mm",
+      "Instinct® 3 - 50 mm",
       "Solar",
       "Tactical"
     ],
@@ -133,9 +133,9 @@
   {
     "id": "316",
     "partNumber": "006-B4587-00",
-    "name": "Instinct® 3 – 50 mm, AMOLED",
+    "name": "Instinct® 3 - 50 mm, AMOLED",
     "additionalNames": [
-      "Instinct® 3 – 50 mm",
+      "Instinct® 3 - 50 mm",
       "AMOLED",
       "Tactical"
     ],
@@ -175,10 +175,10 @@
     "partNumber": "006-B3889-00",
     "name": "Instinct® 2S",
     "additionalNames": [
-      "Instinct® 2S - Camo Edition",
-      "Instinct® 2S Solar - Tactical Edition",
-      "Instinct® 2S Solar - Surf Edition",
-      "Instinct® 2S - dēzl™ Edition"
+      "Instinct® 2S - Camo",
+      "Instinct® 2S Solar - Tactical",
+      "Instinct® 2S Solar - Surf",
+      "Instinct® 2S - dēzl™"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02564-11/v/sc-02-sm-426e622a-2b1c-4296-9c52-e7a45755eee1.jpg",
     "urlName": "instinct2S"
@@ -188,13 +188,13 @@
     "partNumber": "006-B4091-00",
     "name": "Instinct® 2S",
     "additionalNames": [
-      "Instinct® 2S - Camo Edition",
-      "Instinct® 2S Solar - Tactical Edition",
-      "Instinct® 2S Solar - Surf Edition",
-      "Instinct® 2S - dēzl™ Edition",
-      "Instinct® 2S Dual Power",
-      "Instinct® 2S Dual Power - Surf Edition",
-      "Instinct® 2S Dual Power ONE PIECE CHOPPER"
+      "Instinct® 2S - Camo",
+      "Instinct® 2S Solar - Tactical",
+      "Instinct® 2S Solar - Surf",
+      "Instinct® 2S - dēzl™",
+      "Instinct® 2S Solar",
+      "Instinct® 2S Solar - Surf",
+      "Instinct® 2S Solar ONE PIECE"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02564-11/v/sc-02-sm-426e622a-2b1c-4296-9c52-e7a45755eee1.jpg",
     "urlName": "instinct2s-asia"
@@ -242,9 +242,9 @@
   {
     "id": "179",
     "partNumber": "006-B3258-00",
-    "name": "Descent™ MK2",
+    "name": "Descent™ Mk2",
     "additionalNames": [
-      "Descent™MK2i"
+      "Descent™ Mk2i"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02132-00/v/pd-03-sm-5dcaa3d1-3191-4acb-b602-7790096bddd6.jpg",
     "urlName": "descentmk2"
@@ -252,9 +252,9 @@
   {
     "id": "187",
     "partNumber": "006-B3702-00",
-    "name": "Descent™ MK2",
+    "name": "Descent™ Mk2",
     "additionalNames": [
-      "Descent™MK2i"
+      "Descent™ Mk2i"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02132-00/v/pd-03-sm-5dcaa3d1-3191-4acb-b602-7790096bddd6.jpg",
     "urlName": "descentmk2-asia"
@@ -278,7 +278,7 @@
   {
     "id": "292",
     "partNumber": "006-B4223-00",
-    "name": "Descent™ MK3i - 51mm",
+    "name": "Descent™ Mk3i - 51 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
     "urlName": "descentmk3"
@@ -286,7 +286,7 @@
   {
     "id": "293",
     "partNumber": "006-B4225-00",
-    "name": "Descent™ MK3i -51mm",
+    "name": "Descent™ Mk3i - 51 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/es_MX/products/010-02752-10/v/pd-04-sm.jpg",
     "urlName": "descentmk3-asia"
@@ -294,9 +294,9 @@
   {
     "id": "295",
     "partNumber": "006-B4222-00",
-    "name": "Descent™ MK3 - 43mm",
+    "name": "Descent™ Mk3 - 43 mm",
     "additionalNames": [
-      "Descent™ MK3i - 43mm"
+      "Descent™ Mk3i - 43 mm"
     ],
     "imageUrl": "https://res.garmin.com/fr_CA/products/010-02753-03/v/pd-04-sm.jpg",
     "urlName": "descentmk3-43"
@@ -312,7 +312,7 @@
   {
     "id": "296",
     "partNumber": "006-B4224-00",
-    "name": "Descent™ MK3 (43mm)",
+    "name": "Descent™ Mk3 - 43 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/fr_CA/products/010-02753-03/v/pd-04-sm.jpg",
     "urlName": "descentmk3-43-asia"
@@ -419,7 +419,7 @@
   {
     "id": "326",
     "partNumber": "006-B4644-00",
-    "name": "Venu® 4 – 41 mm",
+    "name": "Venu® 4 - 41 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-03013-00/v/pd-01-sm.jpg",
     "urlName": "venu4s"
@@ -427,7 +427,7 @@
   {
     "id": "327",
     "partNumber": "006-B4643-00",
-    "name": "Venu® 4 – 45 mm",
+    "name": "Venu® 4 - 45 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-03014-00/v/pd-01-sm.jpg",
     "urlName": "venu4"
@@ -443,7 +443,7 @@
   {
     "id": "74",
     "partNumber": "006-B2833-00",
-    "name": "ForeAthlete 935",
+    "name": "ForeAthlete® 935",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01746-00/v/cf-sm.jpg",
     "urlName": "forerunner935-apac"
@@ -523,7 +523,7 @@
   {
     "id": "89",
     "partNumber": "006-B3003-00",
-    "name": "ForeAthlete 645",
+    "name": "ForeAthlete® 645",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01863-10/v/cf-sm-3d860c6d-aec3-4fcd-8544-3ec55190a637.jpg",
     "urlName": "forerunner645-apac"
@@ -531,7 +531,7 @@
   {
     "id": "90",
     "partNumber": "006-B3004-00",
-    "name": "ForeAthlete 645 Music",
+    "name": "ForeAthlete® 645 Music",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01863-30/v/cf-sm-cf7f4202-dce2-4c43-ab20-0d0ae12b35f3.jpg",
     "urlName": "forerunner645m-apac"
@@ -597,7 +597,7 @@
     "partNumber": "006-B4305-00",
     "name": "Edge® 1040",
     "additionalNames": [
-      "Edge® 1040 Dual Power"
+      "Edge® 1040 Solar"
     ],
     "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648587543/Product_Images/en/products/010-02503-00/v/cf-sm-ba7f3091-b241-4fd3-a4e7-4f25a5332278.jpg",
     "urlName": "edge1040-asia"
@@ -783,8 +783,8 @@
     "partNumber": "006-B4135-00",
     "name": "tactix® 7",
     "additionalNames": [
-      "tactix® 7 – Pro Ballistics Edition",
-      "tactix® 7 – Pro Edition"
+      "tactix® 7 - Pro Ballistics",
+      "tactix® 7 - Pro"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02704-00/v/pd-01-sm-b5f086c9-db63-458e-b1c3-70076dff030d.jpg",
     "urlName": "tactix7"
@@ -792,7 +792,7 @@
   {
     "id": "301",
     "partNumber": "006-B4542-00",
-    "name": "tactix® 7 – AMOLED Edition",
+    "name": "tactix® 7 - AMOLED",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02931-00/g/pd-03-sm.png",
     "urlName": "tactix7o"
@@ -800,9 +800,9 @@
   {
     "id": "324",
     "partNumber": "006-B4775-00",
-    "name": "tactix® 8 – 47 mm, AMOLED",
+    "name": "tactix® 8 - 47 mm, AMOLED",
     "additionalNames": [
-      "tactix® 8 – 51 mm",
+      "tactix® 8 - 51 mm",
       "AMOLED"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-03405-00/v/pd-07-sm.jpg",
@@ -811,9 +811,9 @@
   {
     "id": "335",
     "partNumber": "006-B4776-00",
-    "name": "tactix® 8 – 51 mm, Solar",
+    "name": "tactix® 8 - 51 mm, Solar",
     "additionalNames": [
-      "tactix® 8 – 51 mm",
+      "tactix® 8 - 51 mm",
       "Solar",
       "Elite"
     ],
@@ -825,7 +825,7 @@
     "partNumber": "006-B3943-00",
     "name": "epix™ (Gen 2)",
     "additionalNames": [
-      "quatix® 7 – Sapphire Edition"
+      "quatix® 7 - Sapphire"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02582-00/v/sc-02-sm-a9a189e7-e6a6-4a21-a8f2-71d306469085.jpg",
     "urlName": "epix2"
@@ -835,7 +835,7 @@
     "partNumber": "006-B3944-00",
     "name": "epix™ (Gen 2)",
     "additionalNames": [
-      "quatix® 7 – Sapphire Edition"
+      "quatix® 7 - Sapphire"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02582-00/v/sc-02-sm-a9a189e7-e6a6-4a21-a8f2-71d306469085.jpg",
     "urlName": "epix2-asia"
@@ -843,7 +843,7 @@
   {
     "id": "277",
     "partNumber": "006-B4312-00",
-    "name": "epix™ Pro (42mm)",
+    "name": "epix™ Pro - 42 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02802-13/v/pd-01-sm.jpg",
     "urlName": "epixpro42"
@@ -851,7 +851,7 @@
   {
     "id": "278",
     "partNumber": "006-B4313-00",
-    "name": "epix™ Pro (47mm)",
+    "name": "epix™ Pro - 47 mm",
     "additionalNames": [
       "quatix® 7 Pro"
     ],
@@ -861,7 +861,7 @@
   {
     "id": "279",
     "partNumber": "006-B4314-00",
-    "name": "epix™ Pro (51mm)",
+    "name": "epix™ Pro - 51 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02804-21/v/pd-04-sm.jpg",
     "urlName": "epixpro51"
@@ -1040,7 +1040,7 @@
     "name": "Descent™ G1",
     "additionalNames": [
       "Descent™ G1 Solar",
-      "Descent™ G1 Solar - Ocean Edition"
+      "Descent™ G1 Solar - Ocean"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02604-00/g/cf-sm-d5a36bc4-dc37-4747-a026-4dc1d6a289b7.jpg",
     "urlName": "DescentG1"
@@ -1050,8 +1050,8 @@
     "partNumber": "006-B4132-00",
     "name": "Descent™ G1",
     "additionalNames": [
-      "Descent™ G1 Dual Power",
-      "Descent™ G1 Dual Power - Ocean Edition"
+      "Descent™ G1 Solar",
+      "Descent™ G1 Solar - Ocean"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02604-00/g/cf-sm-d5a36bc4-dc37-4747-a026-4dc1d6a289b7.jpg",
     "urlName": "DescentG1-apac"
@@ -1291,10 +1291,10 @@
   {
     "id": "178",
     "partNumber": "006-B3459-00",
-    "name": "Montana 700",
+    "name": "Montana® 700",
     "additionalNames": [
-      "Montana 700i",
-      "Montana 750i"
+      "Montana® 700i",
+      "Montana® 750i"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02133-00/g/cf-sm-eed10c23-6410-4fb4-bbe7-d235d8c1de78.jpg",
     "urlName": "montana7xx"
@@ -1412,7 +1412,7 @@
   {
     "id": "280",
     "partNumber": "006-B4234-00",
-    "name": "Approach® S70 (47mm)",
+    "name": "Approach® S70 - 47 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02746-22/g/pd-05-sm.jpg",
     "urlName": "approachs70"
@@ -1420,7 +1420,7 @@
   {
     "id": "281",
     "partNumber": "006-B4233-00",
-    "name": "Approach® S70 (42mm)",
+    "name": "Approach® S70 - 42 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/fi_FI/products/010-02746-10/pd-01-sm.jpg",
     "urlName": "approachs70s"
@@ -1454,8 +1454,8 @@
     "partNumber": "006-B4105-00",
     "name": "MARQ® (Gen 2)",
     "additionalNames": [
-      "MARQ® Carbon Collection",
-      "MARQ® Adventurer (Gen 2) - Damascus Steel Edition"
+      "MARQ® Carbon",
+      "MARQ® Adventurer (Gen 2)"
     ],
     "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1664569372/Product_Images/en/products/010-02648-30/g/pd-04-sm.jpg",
     "urlName": "marqII"
@@ -1473,7 +1473,7 @@
     "partNumber": "006-B4106-00",
     "name": "MARQ® (Gen 2)",
     "additionalNames": [
-      "MARQ® Carbon Collection"
+      "MARQ® Carbon"
     ],
     "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1664569372/Product_Images/en/products/010-02648-30/g/pd-04-sm.jpg",
     "urlName": "marqII-apac"
@@ -1481,7 +1481,7 @@
   {
     "id": "297",
     "partNumber": "006-B4472-00",
-    "name": "MARQ® Commander (Gen 2) – Carbon Edition",
+    "name": "MARQ® Commander (Gen 2)",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02722-00/v/pd-03-sm.jpg",
     "urlName": "marqII-commander-carbon"
@@ -1515,7 +1515,7 @@
     "partNumber": "006-B3248-00",
     "name": "MARQ™ Captain",
     "additionalNames": [
-      "MARQ™ Captain: American Magic Edition"
+      "MARQ™ Captain: American Magic"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02006-06/g/cf-sm-04034f67-9380-4d27-b5aa-678600fb8b5f.jpg",
     "urlName": "marq-captain"
@@ -1675,7 +1675,7 @@
   {
     "id": "122",
     "partNumber": "006-B3473-00",
-    "name": "vívoactive® 3 Mercedes-Benz® Collection",
+    "name": "vívoactive® 3 Mercedes-Benz®",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01769-01/g/cf-sm-01b9b246-bee9-46f0-a42d-db98ddfea352.jpg",
     "urlName": "vivoactive3mercedes"
@@ -1691,7 +1691,7 @@
   {
     "id": "124",
     "partNumber": "006-B3477-00",
-    "name": "vívoactive® 3 Mercedes-Benz® Collection",
+    "name": "vívoactive® 3 Mercedes-Benz®",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-01769-01/g/cf-sm-01b9b246-bee9-46f0-a42d-db98ddfea352.jpg",
     "urlName": "vivoactive3mercedes-asia"
@@ -1887,7 +1887,7 @@
   {
     "id": "215",
     "partNumber": "006-B3914-00",
-    "name": "ForeAthlete 245",
+    "name": "ForeAthlete® 245",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02120-00/v/cf-sm-13aa6bd1-4382-4520-ba05-be6a77decdbf.jpg",
     "urlName": "forerunner245-asia"
@@ -1895,7 +1895,7 @@
   {
     "id": "216",
     "partNumber": "006-B3913-00",
-    "name": "ForeAthlete 245 Music",
+    "name": "ForeAthlete® 245 Music",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02120-20/v/cf-sm-3f7eab23-b754-4e70-aba1-518f230a57f7.jpg",
     "urlName": "forerunner245m-asia"
@@ -2063,7 +2063,7 @@
   {
     "id": "318",
     "partNumber": "006-B4574-00",
-    "name": "Forerunner® 570 - 42mm",
+    "name": "Forerunner® 570 - 42 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/fr_CH/products/010-02970-01/v/pd-03-sm.jpg",
     "urlName": "FR570-42mm"
@@ -2071,7 +2071,7 @@
   {
     "id": "319",
     "partNumber": "006-B4570-00",
-    "name": "Forerunner® 570 - 47mm",
+    "name": "Forerunner® 570 - 47 mm",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/cs_CZ/products/010-02971-00/v/rf-sm.jpg",
     "urlName": "FR570-47mm"
@@ -2087,7 +2087,7 @@
   {
     "id": "232",
     "partNumber": "006-B4033-00",
-    "name": "ForeAthlete 55",
+    "name": "ForeAthlete® 55",
     "additionalNames": [
       "Forerunner® 158 "
     ],
@@ -2196,9 +2196,9 @@
   {
     "id": "310",
     "partNumber": "006-B4532-00",
-    "name": "fēnix® 8 Solar (47mm)",
+    "name": "fēnix® 8 - 47 mm, Solar",
     "additionalNames": [
-      "fēnix® 8 Dual Power (47mm)"
+      "fēnix® 8 - 47 mm, Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02906-10/v/rf-sm.jpg",
     "urlName": "fenix8s-47mm"
@@ -2206,9 +2206,9 @@
   {
     "id": "311",
     "partNumber": "006-B4533-00",
-    "name": "fēnix® 8 Solar (51mm)",
+    "name": "fēnix® 8 - 51 mm, Solar",
     "additionalNames": [
-      "fēnix® 8 Dual Power (51mm)"
+      "fēnix® 8 - 51 mm, Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02907-10/v/rf-sm.jpg",
     "urlName": "fenix8s-51mm"
@@ -2218,11 +2218,11 @@
     "partNumber": "006-B4631-00",
     "name": "fēnix® 8 Pro",
     "additionalNames": [
-      "fēnix® 8 Pro – 47 mm AMOLED",
-      "fēnix® 8 Pro – 51 mm AMOLED",
-      "fēnix® 8 Pro – 51 mm MicroLED",
-      "quatix® 8 Pro - 47mm AMOLED",
-      "quatix® 8 Pro - 51mm AMOLED"
+      "fēnix® 8 Pro - 47 mm, AMOLED",
+      "fēnix® 8 Pro - 51 mm, AMOLED",
+      "fēnix® 8 Pro - 51 mm, MicroLED",
+      "quatix® 8 Pro - 47 mm, AMOLED",
+      "quatix® 8 Pro - 51 mm, AMOLED"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-03380-00/v/rf-sm.jpg",
     "urlName": "fenix8Pro-47-51mm"
@@ -2246,7 +2246,7 @@
   {
     "id": "211",
     "partNumber": "006-B3794-00",
-    "name": "ForeAthlete 745",
+    "name": "ForeAthlete® 745",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02445-00/v/pd-01-sm-08be35f2-d0c8-4f90-8bba-79330826183f.jpg",
     "urlName": "forerunner745-asia"
@@ -2275,8 +2275,8 @@
       "fēnix® 6X Sapphire",
       "tactix® Delta Sapphire",
       "tactix® Delta Solar",
-      "tactix® Delta Solar:Ballisitcs Edition",
-      "fēnix® 6X Pro Dual Power"
+      "tactix® Delta Solar Ballistics",
+      "fēnix® 6X Pro Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02157-01/v/cf-sm-47dff6dd-beb7-42eb-9daa-3585c81c12ea.jpg",
     "urlName": "fenix6xp-asia"
@@ -2308,7 +2308,7 @@
   {
     "id": "197",
     "partNumber": "006-B3768-00",
-    "name": "fēnix® 6S Dual Power",
+    "name": "fēnix® 6S Solar",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02409-00/g/rf-sm-af7a3331-c961-4cc9-83c0-2183baba6c2e.jpg",
     "urlName": "fenix6s-jpn-solar"
@@ -2316,7 +2316,7 @@
   {
     "id": "198",
     "partNumber": "006-B3769-00",
-    "name": "fēnix® 6S Pro Dual Power",
+    "name": "fēnix® 6S Pro Solar",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02409-15/v/rf-sm-4d0f762d-bb36-4d24-b4fe-c897e246ab91.jpg",
     "urlName": "fenix6sp-jpn-solar"
@@ -2324,7 +2324,7 @@
   {
     "id": "199",
     "partNumber": "006-B3770-00",
-    "name": "fēnix® 6 Dual Power",
+    "name": "fēnix® 6 Solar",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02410-00/v/pd-04-sm-05fc6663-0a28-451a-aa9d-8595a8238209.jpg",
     "urlName": "fenix6-jpn-solar"
@@ -2332,7 +2332,7 @@
   {
     "id": "200",
     "partNumber": "006-B3771-00",
-    "name": "fēnix® 6 Pro Dual Power",
+    "name": "fēnix® 6 Pro Solar",
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02410-10/v/rf-sm-f9532945-ccc5-430c-9bd7-8a0f50b7fb1d.jpg",
     "urlName": "fenix6p-jpn-solar"
@@ -2350,8 +2350,8 @@
     "partNumber": "006-B3905-00",
     "name": "fēnix® 7S",
     "additionalNames": [
-      "fēnix® 7S– Solar Edition",
-      "fēnix® 7S– Sapphire Solar Edition"
+      "fēnix® 7S - Solar",
+      "fēnix® 7S - Sapphire Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02539-00/g/cf-sm-3ecb177b-cbcd-41dd-80e5-c954164a0955.jpg",
     "urlName": "fenix7s"
@@ -2361,7 +2361,7 @@
     "partNumber": "006-B3908-00",
     "name": "fēnix® 7S",
     "additionalNames": [
-      "fēnix® 7S– Sapphire Dual Power Edition"
+      "fēnix® 7S - Sapphire Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02539-00/g/cf-sm-3ecb177b-cbcd-41dd-80e5-c954164a0955.jpg",
     "urlName": "fenix7s-asia"
@@ -2372,7 +2372,7 @@
     "name": "fēnix® 7",
     "additionalNames": [
       "quatix® 7",
-      "fēnix® 7– Sapphire Dual Power Edition"
+      "fēnix® 7 - Sapphire Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02540-00/v/rf-sm-79088307-fcf5-4dff-9eb9-3090f92db1bb.jpg",
     "urlName": "fenix7-asia"
@@ -2382,9 +2382,9 @@
     "partNumber": "006-B4375-00",
     "name": "fēnix® 7 Pro",
     "additionalNames": [
-      "fēnix® 7 Pro – Solar Edition",
-      "fēnix® 7 Pro – Sapphire Solar Edition",
-      "fēnix® 7 Pro– Sapphire Dual Power Edition"
+      "fēnix® 7 Pro - Solar",
+      "fēnix® 7 Pro - Sapphire Solar",
+      "fēnix® 7 Pro - Sapphire Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02777-01/v/pd-06-sm.jpg",
     "urlName": "fenix7pro"
@@ -2394,8 +2394,8 @@
     "partNumber": "006-B4374-00",
     "name": "fēnix® 7S Pro",
     "additionalNames": [
-      "fēnix® 7S Pro– Sapphire Solar Edition",
-      "fēnix® 7S Pro– Sapphire Dual Power Edition"
+      "fēnix® 7S Pro - Sapphire Solar",
+      "fēnix® 7S Pro - Sapphire Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02776-30/v/pd-06-sm.jpg",
     "urlName": "fenix7spro"
@@ -2405,8 +2405,8 @@
     "partNumber": "006-B4376-00",
     "name": "fēnix® 7X Pro",
     "additionalNames": [
-      "fēnix® 7X Pro– Sapphire Solar Edition",
-      "fēnix® 7X Pro– Sapphire Dual Power Edition"
+      "fēnix® 7X Pro - Sapphire Solar",
+      "fēnix® 7X Pro - Sapphire Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02778-00/g/pd-06-sm.jpg",
     "urlName": "fenix7xpro"
@@ -2414,7 +2414,7 @@
   {
     "id": "304",
     "partNumber": "006-B4595-00",
-    "name": "fēnix® 7 Pro – Solar Edition (No Wi-Fi®)",
+    "name": "fēnix® 7 Pro - Solar (No Wi-Fi®)",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02777-13/v/pd-02-sm.jpg",
     "urlName": "fenix7pro-nwifi"
@@ -2422,7 +2422,7 @@
   {
     "id": "305",
     "partNumber": "006-B4596-00",
-    "name": "fēnix® 7X Pro No Wi-Fi",
+    "name": "fēnix® 7X Pro (No Wi-Fi®)",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02778-13/v/pd-05-sm.jpg",
     "urlName": "fenix7Xpro-nwifi"
@@ -2430,7 +2430,7 @@
   {
     "id": "306",
     "partNumber": "006-B4534-00",
-    "name": "fēnix® 8 AMOLED (43mm)",
+    "name": "fēnix® 8 - 43 mm, AMOLED",
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-02903-00/v/pd-06-sm.jpg",
     "urlName": "fenix8-43mm"
@@ -2438,9 +2438,9 @@
   {
     "id": "308",
     "partNumber": "006-B4536-00",
-    "name": "fēnix® 8 AMOLED (47mm/51mm)",
+    "name": "fēnix® 8 - 47 / 51 mm, AMOLED",
     "additionalNames": [
-      "quatix® 8 AMOLED (47mm/51mm)"
+      "quatix® 8 - 47 / 51 mm, AMOLED"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02905-00/v/pd-06-sm.jpg",
     "urlName": "fenix8-51mm"
@@ -2450,8 +2450,8 @@
     "partNumber": "006-B3906-00",
     "name": "fēnix® 7",
     "additionalNames": [
-      "fēnix® 7– Sapphire Solar Edition",
-      "fēnix® 7 Solar",
+      "fēnix® 7 - Sapphire Solar",
+      "fēnix® 7 - Solar",
       "quatix® 7"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02540-00/v/rf-sm-79088307-fcf5-4dff-9eb9-3090f92db1bb.jpg",
@@ -2462,9 +2462,9 @@
     "partNumber": "006-B3907-00",
     "name": "fēnix® 7X",
     "additionalNames": [
-      "fēnix® 7X - Solar Edition",
-      "fēnix® 7X– Sapphire Solar Edition",
-      "quatix® 7X – Solar Edition"
+      "fēnix® 7X - Solar",
+      "fēnix® 7X - Sapphire Solar",
+      "quatix® 7X - Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02541-11/v/sc-03-sm-cd878574-7789-4323-a2f2-1acebcff5f36.jpg",
     "urlName": "fenix7X"
@@ -2474,7 +2474,7 @@
     "partNumber": "006-B3910-00",
     "name": "fēnix® 7X",
     "additionalNames": [
-      "fēnix® 7X– Sapphire Dual Power Edition",
+      "fēnix® 7X - Sapphire Solar",
       "quatix® 7X"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02541-11/v/sc-03-sm-cd878574-7789-4323-a2f2-1acebcff5f36.jpg",
@@ -2549,7 +2549,7 @@
     "partNumber": "006-B4061-00",
     "name": "Edge® 540",
     "additionalNames": [
-      "Edge® 540 Dual Power"
+      "Edge® 540 Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02694-00/v/cf-sm.jpg",
     "urlName": "edge540"
@@ -2559,7 +2559,7 @@
     "partNumber": "006-B4062-00",
     "name": "Edge® 840",
     "additionalNames": [
-      "Edge® 840 Dual Power"
+      "Edge® 840 Solar"
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-02695-00/v/cf-sm.jpg",
     "urlName": "edge840"
@@ -2599,9 +2599,9 @@
   {
     "id": "147",
     "partNumber": "006-B3469-00",
-    "name": "ForeAthlete 45",
+    "name": "ForeAthlete® 45",
     "additionalNames": [
-      "ForeAthlete 45S"
+      "ForeAthlete® 45S"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02156-05/v/cf-sm-ddce0f3c-16b2-4cfc-bd14-7e541f5412bc.jpg",
     "urlName": "foreathlete45"
@@ -2633,7 +2633,7 @@
   {
     "id": "239",
     "partNumber": "006-B4024-00",
-    "name": "Forerunner® 955 Dual Power",
+    "name": "Forerunner® 955 Solar",
     "additionalNames": [],
     "imageUrl": "https://res.cloudinary.com/it-production/image/upload/v1648587638/Product_Images/en/products/010-02638-10/v/rf-sm-02b8c734-88b3-4aef-94ec-8ef61dec4c3f.jpg",
     "urlName": "forerunner955"
@@ -2788,7 +2788,7 @@
     "name": "quatix® 6X",
     "additionalNames": [
       "quatix® 6X Solar",
-      "quatix® 6X Dual Power"
+      "quatix® 6X Solar"
     ],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02157-30/g/rf-sm-08137167-34a8-4a4b-8065-ab9f72810db0.jpg",
     "urlName": "quatix6x-asia"

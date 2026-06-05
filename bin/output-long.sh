@@ -1,12 +1,12 @@
 #!/usr/bin/sh
 
-RAW=data/raw/api/*.json
+API=data/tmp/api/deviceTypes.json
 
 TMP=data/out/long/legal.tmp
 OUT=data/out/long/legal.psv
 
 # Extract part numbers and product names from JSON
-jq -r '.[] | (.partNumber + "|" + .name), (.partNumber + "|" + .additionalNames[])' $RAW >$TMP
+jq -r '.[] | (.partNumber + "|" + .name), (.partNumber + "|" + .additionalNames[])' $API >$TMP
 
 # Fix additional product names which have been split in the JSON
 grep -E -v '\|AMOLED|\|Solar|\|Tactical|\|Elite' $TMP >$OUT
