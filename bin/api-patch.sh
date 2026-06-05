@@ -59,3 +59,6 @@ sed -i 's/Dual Power/Solar/' $OUT
 
 # Remove unnnecessary suffixes
 sed -i 's/ Edition//;s/ Collection//;s/ - Damascus Steel//;s/ - Carbon//' $OUT
+
+# Remove the phrase "(No Wi-Fi®)"
+sed -i 's/ (No Wi-Fi®)//' $OUT
