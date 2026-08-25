@@ -2808,5 +2808,73 @@
     "additionalNames": [],
     "imageUrl": "https://static.garmincdn.com/en/products/010-02173-52/v/cf-sm-86fc3396-766b-408e-9755-0c8fb5bbacc5.jpg",
     "urlName": "mercedes-benz-venu-asia"
+  },
+  {
+    "id": "348",
+    "partNumber": "006-B5133-00",
+    "name": "fenix® 9 - 43 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04761-00/v/rf-sm.jpg",
+    "urlName": "fenix9-43mm"
+  },
+  {
+    "id": "349",
+    "partNumber": "006-B5134-00",
+    "name": "fenix® 9 – 47 mm",
+    "additionalNames": [
+      "fenix® 9 - 51 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04762-00/v/rf-sm.jpg",
+    "urlName": "fenix9-47mm-51mm"
+  },
+  {
+    "id": "350",
+    "partNumber": "006-B4953-00",
+    "name": "fenix® 9 Pro - 47 mm",
+    "additionalNames": [
+      "fenix® 9 Pro - inReach 47 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04336-00/v/rf-sm.jpg",
+    "urlName": "fenix9pro-47mm"
+  },
+  {
+    "id": "351",
+    "partNumber": "006-B4952-00",
+    "name": "fenix® 9 Pro - 43 mm",
+    "additionalNames": [
+      "fenix® 9 Pro - inReach 43 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04335-00/v/rf-sm.jpg",
+    "urlName": "fenix9pro-43mm"
+  },
+  {
+    "id": "352",
+    "partNumber": "006-B4954-00",
+    "name": "fenix® 9 Pro - 51 mm",
+    "additionalNames": [
+      "fenix® 9 Pro - inReach 51 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04337-01​/v/rf-sm.jpg",
+    "urlName": "fenix9pro-51mm"
+  },
+  {
+    "id": "353",
+    "partNumber": "006-B4955-00",
+    "name": "fenix® 9 Pro - Solar 47 mm",
+    "additionalNames": [
+      "fenix® 9 Pro - inReach Solar 47 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04338-00/v/rf-sm.jpg",
+    "urlName": "fenix9pro-solar-47mm"
+  },
+  {
+    "id": "354",
+    "partNumber": "006-B4956-00",
+    "name": "fenix® 9 Pro - Solar 51 mm",
+    "additionalNames": [
+      "fenix® 9 Pro - inReach Solar 51 mm"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04339-00/v/rf-sm.jpg",
+    "urlName": "fenix9pro-solar-51mm"
   }
 ]
