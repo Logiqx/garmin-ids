@@ -2876,5 +2876,29 @@
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-04339-00/v/rf-sm.jpg",
     "urlName": "fenix9pro-solar-51mm"
+  },
+  {
+    "id": "356",
+    "partNumber": "006-B4874-00",
+    "name": "Approach® S72 - 43 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04147-00/g/rf-sm.jpg",
+    "urlName": "approachs7243mm"
+  },
+  {
+    "id": "357",
+    "partNumber": "006-B4875-00",
+    "name": "Approach® S72 - 47 mm",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04148-00/v/sc-02-sm.jpg",
+    "urlName": "approachs7247mm"
+  },
+  {
+    "id": "359",
+    "partNumber": "006-B5169-00",
+    "name": "Enduro™ 4",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04799-00/v/rf-sm.jpg",
+    "urlName": "enduro4"
   }
 ]
