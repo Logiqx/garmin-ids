@@ -2900,5 +2900,19 @@
     "additionalNames": [],
     "imageUrl": "https://res.garmin.com/en/products/010-04799-00/v/rf-sm.jpg",
     "urlName": "enduro4"
+  },
+  {
+    "id": "363",
+    "partNumber": "006-B5000-00",
+    "name": "MARQ® Adventurer (Gen 3)",
+    "additionalNames": [
+      "MARQ® Athlete (Gen 3)",
+      "MARQ® Aviator (Gen 3)",
+      "MARQ® Commander (Gen 3)",
+      "MARQ® Diver (Gen 3)",
+      "MARQ® Golfer (Gen 3)"
+    ],
+    "imageUrl": "https://res.garmin.com/en/products/010-04549-00/v/rf-sm.jpg",
+    "urlName": "marqIII"
   }
 ]
