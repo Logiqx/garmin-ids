@@ -13,6 +13,6 @@ done | grep ": 0" | cut -d: -f1 >$TMP
 for i in $(cat $TMP)
 do
     grep $i $FIT
-done
+done | sort -t, -k2
 
 rm $TMP
