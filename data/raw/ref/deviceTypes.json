@@ -467,5 +467,22 @@
     "partNumber": "006-B1736-00",
     "name": "Edge® Touring",
     "additionalNames": []
+  },
+  {
+    "id": "0",
+    "partNumber": "006-B2769-00",
+    "name": "Foretrex® 601",
+    "additionalNames": [
+      "Foretrex® 701"
+    ]
+  },
+  {
+    "id": "0",
+    "partNumber": "006-B2441-00",
+    "name": "Oregon® 700",
+    "additionalNames": [
+      "Oregon® 750",
+      "Oregon® 750t"
+    ]
   }
 ]
