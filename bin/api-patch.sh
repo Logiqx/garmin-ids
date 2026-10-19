@@ -1,10 +1,11 @@
 #!/usr/bin/sh
 
 RAW=data/raw/api/deviceTypes.json
+REF=data/raw/ref/deviceTypes.json
 OUT=data/tmp/api/deviceTypes.json
 
 # Duplicate original file
-cp $RAW $OUT
+cat $RAW $REF >$OUT
 
 # Standardise hyphens - use minus sign
 sed -i 's/–/-/g' $OUT
