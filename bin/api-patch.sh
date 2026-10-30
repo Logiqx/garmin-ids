@@ -40,8 +40,14 @@ sed -i -E 's/( [45][0-9])(mm)/\1 \2/g' $OUT
 # Shorten multiple sizes - e.g. 47 mm / 51 mm to 47 / 51 mm
 sed -i -E 's/([45][0-9]) mm \/ ([45][0-9] mm)/\1 \/ \2/' $OUT
 
+# Fix fēnix 9 accent
+sed -i -E 's/fenix/fēnix/g' $OUT
+
 # Add missing commas - e.g. fēnix® 8 Pro – 51 mm, MicroLED
 sed -i -E 's/(mm) ([A-Z][A-Za-z]*LED)/\1, \2/' $OUT
+
+# Add missing commas - e.g. fēnix® 9 Pro - Solar, 51 mm
+sed -i -E 's/(Solar) ([45][0-9] mm)/\1, \2/' $OUT
 
 # Add missing brackets - e.g. fēnix® 7X Pro (No Wi-Fi®)
 sed -i -E 's/ (No Wi-Fi)/ (\1®)/' $OUT
@@ -63,3 +69,6 @@ sed -i 's/ Edition//;s/ Collection//;s/ - Damascus Steel//;s/ - Carbon//' $OUT
 
 # Remove the phrase "(No Wi-Fi®)"
 sed -i 's/ (No Wi-Fi®)//' $OUT
+
+# Undo issue in URLs caused by earlier patch
+sed -i -E 's/(urlName.*)(fēnix)/\1fenix/' $OUT
