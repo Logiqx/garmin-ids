@@ -2810,6 +2810,14 @@
     "urlName": "mercedes-benz-venu-asia"
   },
   {
+    "id": "347",
+    "partNumber": "006-B4962-00",
+    "name": "Edge® 1060",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04598-00/g/cf-sm.jpg",
+    "urlName": "edge1060"
+  },
+  {
     "id": "348",
     "partNumber": "006-B5133-00",
     "name": "fenix® 9 - 43 mm",
@@ -2876,6 +2884,22 @@
     ],
     "imageUrl": "https://res.garmin.com/en/products/010-04339-00/v/rf-sm.jpg",
     "urlName": "fenix9pro-solar-51mm"
+  },
+  {
+    "id": "355",
+    "partNumber": "006-B4970-00",
+    "name": "Edge® Explore 3",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04661-00/v/cf-sm.jpg",
+    "urlName": "edgeexplore3"
+  },
+  {
+    "id": "360",
+    "partNumber": "006-B4972-00",
+    "name": "Edge® Explore 3 Plus",
+    "additionalNames": [],
+    "imageUrl": "https://res.garmin.com/en/products/010-04661-10/v/cf-sm.jpg",
+    "urlName": "edgeexplore3plus"
   },
   {
     "id": "356",
